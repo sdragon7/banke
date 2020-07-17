@@ -1,0 +1,9 @@
+package demo.dragon;
+
+import java.lang.Number;
+
+rule "LalaRule"
+	dialect "mvel"
+	when
+	then
+end
